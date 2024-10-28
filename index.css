@@ -1,0 +1,20 @@
+.paragraphw{
+    color: blue;
+}
+#parapraph3{
+    color: red;
+}
+input[type="text"]{
+    background-color: aquamarine;
+}
+input[type="password"]{
+    background-color: red;
+}
+
+ul>li{
+    color:hotpink;
+}
+a:hover{
+    color:gold; 
+    font-size: xx-large;
+}
